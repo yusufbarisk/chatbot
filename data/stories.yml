@@ -6,7 +6,7 @@ stories:
   steps:
   - intent: greet
 
-- story: sad path 1
+- story: çokomelli happy path
   steps:
   - intent: greet
   - action: utter_greet
