@@ -4,7 +4,7 @@ nlu:
 - intent: kargo_firması
   examples: |
     - Kargo firması
-    - teslimat firması
+    - teslimat firması  
     - Hangi kargo firması
     - Hangi kargı
 
@@ -22,7 +22,6 @@ nlu:
     - Paketim nerede
     - Ürünlerim nerede
     - Hangi kargo firması
-    - Hangi kargı
 
 - intent: kargo_suresi
   examples: |
