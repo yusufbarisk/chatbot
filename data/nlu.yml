@@ -1,0 +1,23 @@
+version: "3.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - Selam
+    - merhaba
+    - Merhaba
+    - Selamlar
+    - İyi günler
+
+- intent: goodbye
+  examples: |
+    - İyi günler
+    - görüşmek üzere
+    - görüşürüz
+    - by
+    - bye
+    - iyi günler
+    - iyi akşamlar
+    - İyi akşamlar
+

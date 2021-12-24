@@ -1,0 +1,15 @@
+- intent: iade_kargo_ucreti
+  examples: |
+    - iade kargo ücreti
+    - kargo iadesi ücreti
+    - iade gönderim ücreti
+    - iade ücreti
+    - geri gönderim ücreti
+    - iade kargo parası 
+
+- intent: iade_politika
+  examples: |
+    - İade politikası
+    - iade politikası
+    - iade edebilir miyim
+    - iade 
