@@ -1,1 +1,38 @@
-teslimat.yml
+version: "3.0"
+
+nlu:
+- intent: kargo_firması
+  examples: |
+    - Kargo firması
+    - teslimat firması
+    - Hangi kargo firması
+    - Hangi kargı
+
+- intent: kargo_suresi
+  examples: |
+    - Kargo ne zamana gelir
+    - kargom ne zaman gelir
+    - Ürünüm ne zaman elime ulaşır
+    - Kargo ne kadar sürer
+    - Paketim ne zaman gelir
+    - Kargo süresi yaklaşık ne kadar
+
+- intent: kargom_nerede
+  examples: |
+    - Paketim nerede
+    - Ürünlerim nerede
+    - Hangi kargo firması
+    - Hangi kargı
+
+- intent: kargo_suresi
+  examples: |
+    - Kargo ne zamana gelir
+    - Ürün ne zaman elime ulaşır
+    - Kargo ne kadar sürer
+    - Kargo süresi yaklaşık ne kadar
+- intent: gel_al
+  examples: |
+    - Gel-al noktaları nerede
+    - Gel al yapabilir miyim
+    - Gelal var mı
+    - gel al nasıl yaparım

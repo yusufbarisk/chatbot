@@ -1,19 +1,15 @@
 - intent: iade_kargo_ucreti
   examples: |
-    - hey
-    - Selam
-    - merhaba
-    - Merhaba
-    - Selamlar
-    - İyi günler
+    - iade kargo ücreti
+    - kargo iadesi ücreti
+    - iade gönderim ücreti
+    - iade ücreti
+    - geri gönderim ücreti
+    - iade kargo parası 
 
-- intent: goodbye
+- intent: iade_politika
   examples: |
-    - İyi günler
-    - görüşmek üzere
-    - görüşürüz
-    - by
-    - bye
-    - iyi günler
-    - iyi akşamlar
-    - İyi akşamlar
+    - İade politikası
+    - iade politikası
+    - iade edebilir miyim
+    - iade 
